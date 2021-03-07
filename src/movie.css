@@ -1,0 +1,20 @@
+.movies_movie{
+    margin: 10px;
+    height: 600px;
+    width: 300px;
+    height: 600px;
+    text-align: center;    
+}
+
+.movie{
+    border: solid #000000 1px;
+    padding: 5px;
+}
+
+.movie_data{
+    text-align: left;
+    overflow-y: scroll;
+    text-overflow: ellipsis;
+    overflow-wrap: break-word;
+    height: 200px;
+}
